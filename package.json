@@ -1,6 +1,5 @@
 {
   "author": "virtualpatterns.com <code@virtualpatterns.com> (http://www.virtualpatterns.com)",
-  "description": "TBD",
   "ava": {
     "failFast": true,
     "files": [
@@ -11,7 +10,7 @@
       "--unhandled-rejections=strict"
     ],
     "require": [
-      "@virtualpatterns/mablung-source-map-support/distributable/install.js"
+      "@virtualpatterns/mablung-source-map-support/install.js"
     ],
     "verbose": true
   },
@@ -23,6 +22,8 @@
       "lcov"
     ]
   },
+  "description": "TBD",
+  "exports": ".distributable/index.js",
   "license": "GPL-3.0+",
   "main": "distributable/index.js",
   "name": "@virtualpatterns/mablung-path",
