@@ -1,5 +1,4 @@
 {
-  "retainLines": true,
   "plugins": [
     "@babel/plugin-syntax-import-meta",
     [
@@ -28,5 +27,6 @@
     ]
   ],
   "presets": [],
+  "retainLines": true,
   "sourceType": "module"
 }
