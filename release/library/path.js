@@ -11,4 +11,5 @@ class Path {
 Object.setPrototypeOf(Path, BasePath);
 
 export { Path };
+
 //# sourceMappingURL=path.js.map
