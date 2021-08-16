@@ -5,8 +5,7 @@ Test.before(async (test) => {
 })
 
 ;[
-  'Path',
-  'OK'
+  'Path'
 ].forEach((name) => {
 
   Test(name, async (test) => {
