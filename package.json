@@ -16,7 +16,7 @@
     "url": "https://github.com/virtualpatterns/mablung-path"
   },
   "type": "module",
-  "version": "0.0.2-40",
+  "version": "0.0.2-41",
   "devDependencies": {
     "@virtualpatterns/babel-preset-mablung-makefile-environment": "0.0.26-11",
     "@virtualpatterns/eslint-config-mablung-makefile-environment": "0.0.26-11",
