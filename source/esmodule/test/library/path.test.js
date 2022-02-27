@@ -4,5 +4,5 @@ import Test from 'ava'
 const FilePath = __filePath
 
 Test('trim(\'...\')', (test) => {
-  test.is(Path.trim(FilePath), 'release/test/library/path.test.js')
+  test.is(Path.trim(FilePath), Path.relative('', FilePath))
 })

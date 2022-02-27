@@ -1,1 +1,1 @@
-export * from './library/path.js'
+export const OK = true
