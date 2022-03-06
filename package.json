@@ -23,10 +23,10 @@
   "type": "module",
   "version": "0.0.2-45",
   "devDependencies": {
-    "@virtualpatterns/babel-preset-mablung-makefile-environment": "0.0.26-23",
-    "@virtualpatterns/eslint-config-mablung-makefile-environment": "0.0.26-20",
-    "@virtualpatterns/mablung-check-dependency": "0.0.26-99",
-    "@virtualpatterns/mablung-makefile-environment": "0.0.26-66",
+    "@virtualpatterns/babel-preset-mablung-makefile-environment": "0.0.26-27",
+    "@virtualpatterns/eslint-config-mablung-makefile-environment": "0.0.26-24",
+    "@virtualpatterns/mablung-check-dependency": "0.0.26-107",
+    "@virtualpatterns/mablung-makefile-environment": "0.0.26-70",
     "ava": "^4.0.1"
   }
 }
